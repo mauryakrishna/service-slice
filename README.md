@@ -1,5 +1,3 @@
-# service-slice
-
 # Getting started
 - Clone the repository
 ```
