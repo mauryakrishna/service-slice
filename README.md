@@ -1,4 +1,6 @@
-# Getting started
+# Services repo for handling transaction information
+
+## Getting started
 - Clone the repository
 ```
 git clone https://github.com/mauryakrishna/service-slice.git service-slice
